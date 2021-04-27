@@ -7,7 +7,7 @@ module.exports = {
 }
 
 // Database Name
-const dbName = 'oplace_db'
+const dbName = 'oplace'
 
 var dbConn = null
 
